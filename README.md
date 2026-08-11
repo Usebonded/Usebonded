@@ -57,13 +57,9 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 ## 📈 GitHub Analytics
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Usebonded/Usebonded/main/github-metrics.svg" alt="GitHub Metrics" />
-
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usebonded&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="95%" />
-
 </div>
 ---
 
