@@ -104,11 +104,6 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 </div>
 ---
 
-### 📊 My GitHub Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Usebonded&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usebonded&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usebonded&theme=radical)
 
