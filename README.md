@@ -20,7 +20,7 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 | *Tools* | Git, AWS, VS Code |
 <div align="center">
 
-# 👋 Hi, I'm Savar Shetty
+# Hi there, I'm Savar Shetty! 👋
 
 ### 🚀 AI & ML Undergraduate | Software Developer | Continuous Learner
 
@@ -73,20 +73,17 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 | ⚡ **[Rapid Crisis Response System](https://github.com/Usebonded)** | Coordination platform designed for emergency dispatch and rapid multi-agent response logic. | `Python` `Automation` |
 
 ---
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Usebonded&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Savar's GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usebonded&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+<img src="https://raw.githubusercontent.com/Usebonded/Usebonded/main/github-metrics.svg" alt="GitHub Metrics" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usebonded&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Usebonded&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
