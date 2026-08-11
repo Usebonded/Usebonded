@@ -1,32 +1,11 @@
 # Hi there, I'm Savar Shetty! 👋
 
-### ⚡ A Little About Me
-I'm currently a *[Student]* passionate about building things that solve real-world problems. Currently, I'm focusing on *[Stock trading bot]*.
-
-* 🔭 I’m currently working on stock trading bot 
-* 🌱 I’m currently learning full stack development
-* 💬 Ask me about anything required 
-* 📫 How to reach me: [shettysavar14@gmail.com]
-* ⚡Portfolio web:https://savar-shetty.ai.studio/
-
----
-
-### 🛠 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| *Languages* | Python, JavaScript, TypeScript, C++ |
-| *Frontend* | React, Next.js, Tailwind CSS |
-| *Backend* | Node.js, PostgreSQL, Docker |
-| *Tools* | Git, AWS, VS Code |
-<div align="center">
-
-# Hi there, I'm Savar Shetty! 👋
-
 ### 🚀 AI & ML Undergraduate | Software Developer | Continuous Learner
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savar-shetty-27773b310)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/savar_shetty)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usebonded)
+[![Portfolio](https://img.shields.io/badge/Portfolio-150458?style=for-the-badge&logo=&logoColor=white)](https://savar-shetty.ai.studio/)
 
 > *"Passionate about building clean, scalable applications and learning something new every single commit."*
 
@@ -34,12 +13,14 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 
 </div>
 
-## 📌 About Me
+### ⚡ A Little About Me
+I'm currently a *[Student]* passionate about building things that solve real-world problems. Currently, I'm focusing on *[Stock trading bot]*.
 
-- 🎓 **Focus:** Artificial Intelligence, Machine Learning & Systems Architecture.
-- 🛠️ **Core Technologies:** High-performance C/C++, Python, Data Structures & Algorithms.
-- 🎯 **Current Endeavors:** Building autonomous AI agents, stock trading systems, and deep learning architectures.
-- 📍 **Location:** Pune, Maharashtra, India.
+* 🔭 I’m currently working on stock trading bot 
+* 🌱 I’m currently learning SQL and deep learning architectures.
+* 💬 Ask me about anything required.
+* 🎓 Focus on Artificial Intelligence, Machine Learning & Systems Architecture.
+* 📍 Located in Pune, Maharashtra, India.
 
 ---
 
