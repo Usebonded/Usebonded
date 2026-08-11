@@ -95,8 +95,3 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 </div>
 
 ---
-
-### 🔗 Connect with me On Linkedin and Instagram 
-https://www.linkedin.com/in/savar-shetty-27773b310
-
-https://www.instagram.com/savar_shetty?igsh=eXBwdnZ6aWh5OXJu
