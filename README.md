@@ -99,13 +99,6 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 
 ---
 
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usebonded&theme=radical)
-
-
----
-
 ### 🔗 Connect with me On Linkedin and Instagram 
 https://www.linkedin.com/in/savar-shetty-27773b310
 
