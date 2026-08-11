@@ -99,10 +99,6 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 
 ---
 
-<div align="center">
-  <sub>Designed & Maintained by <a href="https://github.com/Usebonded">Savar Shetty</a></sub>
-</div>
----
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usebonded&theme=radical)
