@@ -54,13 +54,11 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 | ⚡ **[Rapid Crisis Response System](https://github.com/Usebonded)** | Coordination platform designed for emergency dispatch and rapid multi-agent response logic. | `Python` `Automation` |
 
 ---
-## ⏱️ Coding Activity Analysis
+## 📊 GitHub Overview
 
-<!--START_SECTION:waka-->
-Python       25 hrs 14 mins  ██████████████████░░░░░░░   65.2%
-C++          10 hrs 30 mins  ███████░░░░░░░░░░░░░░░░░░   27.1%
-Markdown      2 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.7%
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UseBonded&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🐍 Contribution Activity
