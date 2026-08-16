@@ -50,8 +50,8 @@ I'm currently a *[Student]* passionate about building things that solve real-wor
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🤖 **[Stock Trading Bot](https://github.com/Usebonded/rl-trading-bot)** | Automated trading bot utilizing Reinforcement Learning to analyze market patterns and execute trades. | `Python` `Reinforcement Learning` `Pandas` |
-| 📊 **[Data Structures & Algorithms](https://github.com/Usebonded)** | High-efficiency implementations of core data structures, memory management, and algorithmic solutions. | `C` `C++` |
-| ⚡ **[Rapid Crisis Response System](https://github.com/Usebonded)** | Coordination platform designed for emergency dispatch and rapid multi-agent response logic. | `Python` `Automation` |
+| 📊 **[Data Structures & Algorithms](https://github.com/Usebonded/Data-Algorithum)** | High-efficiency implementations of core data structures, memory management, and algorithmic solutions. | `python` `C++` |
+| ⚡ **[Rapid Crisis Response System](https://github.com/Usebonded/meshroute.ops)** | Coordination platform designed for emergency dispatch and rapid multi-agent response logic. | `Python` `Automation` |
 
 ---
 ## 📊 GitHub Overview
